@@ -5,8 +5,8 @@ Simple game for playing with automatic player
 This project was making for learn using canvas element with JavaScript language.
 
 ## Screenshots
-![screenshots](screen1.png?raw=true)
-![screenshots](screen2.png?raw=true)
+![screenshots](/assets/screen1.png?raw=true)
+![screenshots](/assets/screen2.png?raw=true)
 
 ## Technologies
 * HTML5
