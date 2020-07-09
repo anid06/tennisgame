@@ -1,0 +1,28 @@
+canvas {
+    position: relative;
+}
+
+.scores {
+    color: black;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    font-size: 50px;
+    height: 100px;
+    width: 100px;
+    z-index: 500;
+}
+
+.scores .score {
+    display: inline-block;
+}
+
+.scores #score1 {
+    position: absolute;
+    left: calc(800px/4);
+}
+
+.scores #score2 {
+    position: absolute;
+    left: calc(800px*3/4);
+}
